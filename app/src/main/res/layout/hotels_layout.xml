@@ -29,13 +29,13 @@
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textV_name"
-        app:layout_constraintVertical_bias="0.089" />
+        app:layout_constraintVertical_bias="0.082" />
 
     <TextView
         android:id="@+id/textV_name"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
+        android:layout_marginTop="8dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.15"
         app:layout_constraintStart_toStartOf="parent"
@@ -83,7 +83,7 @@
         android:id="@+id/textVRoom1_name"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textSize="24sp"
+        android:textSize="12sp"
         app:layout_constraintBottom_toTopOf="@+id/room1_img"
         app:layout_constraintEnd_toEndOf="@+id/room1_img"
         app:layout_constraintStart_toStartOf="@+id/room1_img" />
@@ -92,7 +92,7 @@
         android:id="@+id/textVRoom2_name"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textSize="24sp"
+        android:textSize="12sp"
         app:layout_constraintBottom_toTopOf="@+id/room2_img"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
@@ -101,7 +101,7 @@
         android:id="@+id/textVRoom3_name"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textSize="24sp"
+        android:textSize="12sp"
         app:layout_constraintBottom_toTopOf="@+id/room3_img"
         app:layout_constraintEnd_toEndOf="@+id/room3_img"
         app:layout_constraintStart_toStartOf="@+id/room3_img" />
