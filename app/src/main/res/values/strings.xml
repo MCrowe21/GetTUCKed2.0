@@ -4,6 +4,14 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fullsizeimage">fullsizeimage</string>
+    <string name="two_beds">Two beds</string>
+    <string name="_139_night">139/night</string>
+    <string name="roomsimages">roomsImages</string>
+    <string name="cityimages">cityimages</string>
+    <string name="roompic1">roompic1</string>
+    <string name="roompic3">roompic3</string>
+    <string name="roompic2">roompic2</string>
     <string-array name="hotel_kamloops">
         <item>Sandman Signature Hotel</item>
         <item>Holiday Inn</item>
